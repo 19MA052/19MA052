@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @19MA052
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning HTML, CSS, Javascript ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💻 Developer | 🚀 Intern @ Fansocial | 🌐 JavaScript & Node.js Enthusiast
 
-<!---
-19MA052/19MA052 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I'm Aanchal, a passionate developer working on real-world UI and backend challenges using JavaScript, Node.js, PHP, and more. I thrive on turning design ideas into functional, responsive interfaces and crafting efficient APIs that make the magic happen behind the scenes.
+
+I’m currently an intern at Fansocial, where I get to build and debug live features, learn new technologies daily, and grow by solving real user problems. Whether it’s wrangling a carousel, fixing media fallbacks, or organizing clean and scalable code, I’m always ready to dive in.
+
+🛠️ Tech Stack:
+- JavaScript (ES6+), Node.js, PHP
+- HTML5, CSS3, Tachyon CSS
+- MySQL, REST APIs
+- Debugging... lots of debugging 🐛
+
+📚 Lifelong learner. Code explorer. Open to collaboration and cool projects!
+
+Let’s connect and build awesome things together 🚀
